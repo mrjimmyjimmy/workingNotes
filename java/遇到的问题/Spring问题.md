@@ -4,8 +4,8 @@
     - e.g. @Table(name = "t_test) 和 @Table(name = "t_test")会被认为是一个entity
    
 ### 2. hibernate entity 字段插入值不能为null
-    - entity类型不使用基本数据类型
-```
+entity类型不使用基本数据类型
+```java
 private int age; // age的值不能为空
 private Integer age; // age 可为null
 ```
