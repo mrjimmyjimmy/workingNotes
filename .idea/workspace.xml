@@ -3,21 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/idea使用心得.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/Java/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/java/higgs/java/JavaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/java/security/MyMD5Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/test/java/higgs/java/JavaApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/遇到的问题/Spring问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/遇到的问题/java语法问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/遇到的问题/java语法问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/遇到的问题/数据库问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/Spring问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Spring问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/java语法问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java语法问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/数据库问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/数据库问题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +31,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\workingNotes\Java" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -67,7 +60,8 @@
       <updated>1575956701191</updated>
       <workItem from="1576564267361" duration="837000" />
       <workItem from="1576569270557" duration="1013000" />
-      <workItem from="1576630897550" duration="688000" />
+      <workItem from="1576630897550" duration="2705000" />
+      <workItem from="1576717293633" duration="1331000" />
     </task>
     <servers />
   </component>
