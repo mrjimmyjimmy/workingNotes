@@ -56,3 +56,6 @@ public class ControllerA {
 - 不能用final修饰
 
 综上，建议使用构造器方法注入
+
+---
+### 4. spring boot 文件上传

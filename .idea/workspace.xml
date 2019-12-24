@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/Spring问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Spring问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/java语法问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java语法问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/遇到的问题/数据库问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/数据库问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Spring问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Spring问题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HFTR.Web" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +59,8 @@
       <workItem from="1576564267361" duration="837000" />
       <workItem from="1576569270557" duration="1013000" />
       <workItem from="1576630897550" duration="2705000" />
-      <workItem from="1576717293633" duration="1331000" />
+      <workItem from="1576717293633" duration="1762000" />
+      <workItem from="1577157186192" duration="1387000" />
     </task>
     <servers />
   </component>
@@ -82,6 +81,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1577157374606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577157374606" />
     <state x="487" y="291" key="SettingsEditor" timestamp="1576569562036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
