@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Spring问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Spring问题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HFTR.Web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -60,7 +59,8 @@
       <workItem from="1576569270557" duration="1013000" />
       <workItem from="1576630897550" duration="2705000" />
       <workItem from="1576717293633" duration="1762000" />
-      <workItem from="1577157186192" duration="1387000" />
+      <workItem from="1577157186192" duration="2432000" />
+      <workItem from="1577175439213" duration="1340000" />
     </task>
     <servers />
   </component>
