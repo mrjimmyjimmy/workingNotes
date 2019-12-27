@@ -18,6 +18,21 @@ public class DateTime {
 ```
 
 ### 2. java VO, DTO, DO, PO, POJO
+#### VO(View Object) 视图对象：
+    用于展示层，把某个页面或组件的左右数据封装起来
+
+#### DTO(Data Transfer Object) 数据传输对象：
+    用于在view和server端之间传输数据。DTO可以用来保护数据库表结构不被泄露。
+    如：一个User的DO会在server端去掉某些字段（password）然后封装成DTO传到前端。
+    或者多个DO（User，Address）集合成一个DTO。
+
+#### DO(Domain Object) 领域对象：
+    是从现实世界中抽象出来的业务实体。
+
+#### PO(Persistent Object) 持久对象：
+    对应数据库中的entity，一个PO对应数据库中的一条记录。
+    
+---
 
 ### 3. java 自定义异常及异常的使用
 
