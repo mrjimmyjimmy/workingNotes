@@ -36,4 +36,21 @@ public class DateTime {
 
 ### 3. java 自定义异常及异常的使用
 
+### 4. 长路求值（&，|）和短路求值（&&，||）
+java中长路运算&是指两边的条件都进行判断才得出true/false但是短路运算&&只要算出左边的值为false就会返回
+```java
+int i = 2;
+int j = 3;
+int k = 4;
+// 会判断i和j，j和k才给出false
+if (i > j & i > k) {
+    // do something
+}
+
+// 判断玩i和j后，跳过i和k，直接给出false
+if (i > j && i > k) {
+    // do something
+}
+```
+
 
