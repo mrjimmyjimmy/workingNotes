@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/SpringUsage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ideaUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ideaUsage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/javaUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/javaUsage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,11 @@
       <workItem from="1577175439213" duration="7126000" />
       <workItem from="1577330703358" duration="4535000" />
       <workItem from="1577427283062" duration="4437000" />
+      <workItem from="1577686637537" duration="2563000" />
+      <workItem from="1577948394906" duration="2091000" />
+      <workItem from="1578013098989" duration="43000" />
+      <workItem from="1579401630110" duration="1213000" />
+      <workItem from="1582008925968" duration="308000" />
     </task>
     <servers />
   </component>
@@ -83,10 +91,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1577157374606">
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1577932455964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577157374606" />
+    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577932455964" />
     <state x="487" y="291" key="SettingsEditor" timestamp="1576569562036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

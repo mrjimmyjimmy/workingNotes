@@ -53,4 +53,20 @@ if (i > j && i > k) {
 }
 ```
 
+### 5. java读文件
+java读文件的方法
+#### bufferReader.readLine
+```java
+public class FileReader {
+    String filePath = "D:\\git\\project\\demo.txt";
+    FileReader fileReader = new FileReader(filePath);
+    BufferReader bufferReader = new BufferReader(fileReader);
+    // 调用readLine, 逐行读取获得String
+    while ((fileLine = bufferReader.readLine()) != null) {
+        String[] data = fileLine.split("regExp", -1); // 这里regExp表示按什么方式分割字符串，-1表示得到的数组长度
+    }   
+}
+```
+
+
 

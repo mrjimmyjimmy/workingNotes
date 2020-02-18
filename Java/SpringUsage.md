@@ -62,3 +62,7 @@ public class ControllerA {
 
 
 ### 5. api接口文档设计
+
+
+### 6. 常量的使用
+根据阿里巴巴java开发手册，常量的复用分为5层（放在相应的constant目录下）
