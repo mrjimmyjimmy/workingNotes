@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/SpringUsage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/ideaUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ideaUsage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/javaUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/javaUsage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,10 @@
       <workItem from="1578013098989" duration="43000" />
       <workItem from="1579401630110" duration="1213000" />
       <workItem from="1582008925968" duration="308000" />
+      <workItem from="1623897775741" duration="4176000" />
+      <workItem from="1624264057871" duration="28519000" />
+      <workItem from="1625791959420" duration="7855000" />
+      <workItem from="1626246741704" duration="2370000" />
     </task>
     <servers />
   </component>
@@ -91,13 +92,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1577932455964">
+    <state x="-3840" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1626246753133">
+      <screen x="-3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-3840" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.1920.1040@-3840.0.1920.1040" timestamp="1626246753133" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.1920.1040@0.0.1920.1040" timestamp="1624264089574" />
+    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1625564878761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577932455964" />
-    <state x="487" y="291" key="SettingsEditor" timestamp="1576569562036">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="487" y="291" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576569562036" />
+    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3840.0.1920.1040@0.0.1920.1040" timestamp="1625564878761" />
   </component>
 </project>
