@@ -17,7 +17,7 @@ scp root@192.168.0.1:~/git/demo/test.txt .
 ```
 
 ### 2. htop和nohup
-nohup: run a command immune to hangups. 既推出后指令仍可在后台运行
+nohup: run a command immune to hangups. 退出后指令仍可在后台运行
 htop
 
     nohup command [arg]
@@ -34,3 +34,20 @@ nohup和&结合在一起，可以不挂断的永久在后台运行
 "> /dev/null" 表示将输出改为传到/dev/null中，/dev/null 表示输出到空设备（丢弃输出）
 
 ```
+
+### 3. journalctl
+journalctl 来查看由systemd写入的日志
+
+
+### 4. 创建软连接
+
+### ls ll
+ll command not found 需要加入alias ll == ls -al
+
+alias ll="ls -al"
+
+### 5. 时区调整
+更改前，列出所有时区
+timedatectl list-timezones
+然后set-timezone选择时区
+timedatectl set-timezone Asia/Shanghai

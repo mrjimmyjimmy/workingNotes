@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="" />
+    <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/higgs/java/JavaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/security/MyMD5Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/test/java/higgs/java/JavaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/LinuxCommand.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/LinuxCommand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工作计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/工作计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/市场信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/市场信息.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/待办事项.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +43,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/github/TradingCluster" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\workingNotes" />
+      <recent name="D:\git\workingNotes\Database" />
+      <recent name="D:\git\workingNotes\spring" />
       <recent name="D:\git\workingNotes\Java" />
     </key>
   </component>
@@ -70,6 +93,59 @@
       <workItem from="1624264057871" duration="28519000" />
       <workItem from="1625791959420" duration="7855000" />
       <workItem from="1626246741704" duration="2834000" />
+      <workItem from="1626253576278" duration="644000" />
+      <workItem from="1626310506220" duration="15000" />
+      <workItem from="1626336823114" duration="6005000" />
+      <workItem from="1626830308279" duration="9744000" />
+      <workItem from="1627634991897" duration="1243000" />
+      <workItem from="1627973653249" duration="1213000" />
+      <workItem from="1628471472907" duration="3823000" />
+      <workItem from="1628817622779" duration="1514000" />
+      <workItem from="1629092017265" duration="2843000" />
+      <workItem from="1630300109899" duration="1208000" />
+      <workItem from="1630316175495" duration="610000" />
+      <workItem from="1630629601591" duration="1252000" />
+      <workItem from="1631755161864" duration="1246000" />
+      <workItem from="1631838976921" duration="1194000" />
+      <workItem from="1631942976839" duration="7225000" />
+      <workItem from="1634027279433" duration="1411000" />
+      <workItem from="1634174627283" duration="2467000" />
+      <workItem from="1635386074148" duration="595000" />
+      <workItem from="1635485098909" duration="1217000" />
+      <workItem from="1636593950089" duration="599000" />
+      <workItem from="1637212056837" duration="3713000" />
+      <workItem from="1638339708507" duration="668000" />
+      <workItem from="1639553912023" duration="655000" />
+      <workItem from="1639623892377" duration="21361000" />
+      <workItem from="1640916018820" duration="1232000" />
+      <workItem from="1641777581922" duration="1199000" />
+      <workItem from="1642037400387" duration="623000" />
+      <workItem from="1650459315677" duration="2012000" />
+      <workItem from="1651106575528" duration="7133000" />
+      <workItem from="1651714418479" duration="4134000" />
+      <workItem from="1652055727983" duration="2945000" />
+      <workItem from="1652229793371" duration="603000" />
+      <workItem from="1652332626680" duration="3727000" />
+      <workItem from="1654752367737" duration="7157000" />
+      <workItem from="1655339106962" duration="594000" />
+      <workItem from="1655431154740" duration="1634000" />
+      <workItem from="1655800902309" duration="2151000" />
+      <workItem from="1659580850663" duration="1291000" />
+      <workItem from="1660177605848" duration="11411000" />
+      <workItem from="1663069805176" duration="6827000" />
+      <workItem from="1664501380833" duration="987000" />
+      <workItem from="1665715553130" duration="1334000" />
+      <workItem from="1667199970106" duration="655000" />
+      <workItem from="1667262564224" duration="599000" />
+      <workItem from="1667369683475" duration="2651000" />
+      <workItem from="1667983434206" duration="598000" />
+      <workItem from="1668153772359" duration="699000" />
+      <workItem from="1668405406732" duration="979000" />
+      <workItem from="1669767590049" duration="593000" />
+      <workItem from="1669853476866" duration="1191000" />
+      <workItem from="1670313295207" duration="2382000" />
+      <workItem from="1670807442337" duration="1198000" />
+      <workItem from="1671152449739" duration="1453000" />
     </task>
     <servers />
   </component>
@@ -90,14 +166,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3840" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1626246753133">
-      <screen x="-3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-3840" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.1920.1040@-3840.0.1920.1040" timestamp="1626246753133" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.1920.1040@0.0.1920.1040" timestamp="1624264089574" />
-    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1625564878761">
+    <state x="741" y="276" key="FileChooserDialogImpl" timestamp="1667454488108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3840.0.1920.1040@0.0.1920.1040" timestamp="1625564878761" />
+    <state x="741" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-3840.0.2194.1194@0.0.1920.1040" timestamp="1667454488108" />
+    <state x="-6" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1671152555087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-6" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.174.1920.1040@0.0.1920.1040" timestamp="1671152555087" />
+    <state x="-6" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.2194.1194@0.0.1920.1040" timestamp="1670491281537" />
   </component>
 </project>

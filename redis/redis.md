@@ -62,8 +62,12 @@ map，key和value都是string；语法类似String
     - redis.conf 在/etc里 修改 bind 0.0.0.0
     - 重启redis service redis-server restart
 - 利用requirepass
+- 关闭redis持久化
+    - 进入/etc/redis.conf
+    - 注释掉 save 900 1; save 300 10; save 60 10000;
 
 ### redis-cli
 #### 对key进行操作
 - flushall 删除所有数据库中的所有key
+- keys * 查询所有key
 
