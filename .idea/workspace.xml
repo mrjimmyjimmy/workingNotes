@@ -3,24 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/main/java/higgs/java/JavaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/main/java/security/MyMD5Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/test/java/higgs/java/JavaApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Linux/LinuxCommand.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/LinuxCommand.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis/redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/工作计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/工作计划.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/市场信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/市场信息.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/待办事项.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/github/TradingCluster" />
+    <property name="last_opened_file_path" value="D:/github/OKR" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -145,7 +128,15 @@
       <workItem from="1669853476866" duration="1191000" />
       <workItem from="1670313295207" duration="2382000" />
       <workItem from="1670807442337" duration="1198000" />
-      <workItem from="1671152449739" duration="1453000" />
+      <workItem from="1671152449739" duration="2063000" />
+      <workItem from="1673512451928" duration="1000" />
+      <workItem from="1675212687570" duration="656000" />
+      <workItem from="1676508956244" duration="925000" />
+      <workItem from="1677228335634" duration="593000" />
+      <workItem from="1677462339717" duration="771000" />
+      <workItem from="1677465924303" duration="659000" />
+      <workItem from="1677477207971" duration="1297000" />
+      <workItem from="1677809924401" duration="579000" />
     </task>
     <servers />
   </component>
@@ -166,14 +157,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="741" y="276" key="FileChooserDialogImpl" timestamp="1667454488108">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1677571999218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-3840.0.2194.1194@0.0.1920.1040" timestamp="1667454488108" />
-    <state x="-6" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1671152555087">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1677571999218" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1677466341121" />
+    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1677462501939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="-724" y="5" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1676509087713" />
     <state x="-6" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.174.1920.1040@0.0.1920.1040" timestamp="1671152555087" />
     <state x="-6" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.2194.1194@0.0.1920.1040" timestamp="1670491281537" />
+    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1677462501939" />
   </component>
 </project>
