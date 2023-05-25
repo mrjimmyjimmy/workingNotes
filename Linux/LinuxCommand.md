@@ -46,13 +46,5 @@ ll command not found 需要加入alias ll == ls -al
 
 alias ll="ls -al"
 
-### 5. 时区调整
-更改前，列出所有时区
-timedatectl list-timezones
-然后set-timezone选择时区
-timedatectl set-timezone Asia/Shanghai
 
-### 6 查看路由
-- route
-- netstat -route
-- ip route
+
