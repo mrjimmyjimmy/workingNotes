@@ -163,16 +163,277 @@
 ### 1.2 NETWORK HARDWARE
 #### p41
 - taxonomy; no generally accepted taxonomy
-- 
+- unicasting; is sometimes called unicasting
+- criterion; An alternative criterion
+- metropolitan; divided into local, metropolitan
+
 #### p42
+- interplanetary; Interplanetary Internet
+- PANs; Personal Area Networks
+- cord; connect a headset to a mobile phone without cords
+
 #### p43
+- pacemaker; an embedded medical device such as pacemaker
+- insulin; insulin pump
+- enterprise; enterprise networks
+- antenna; an antenna that it uses to communicate
+
 #### p44
+- relay; relay packets between computers
+
 #### p45
+- arbitration; a distributed arbitration mechanism
+- idle; whenever the cable was idle
+- collided; two or more packets collided
+- clarity; classic Ethernet for clarity
+- discrete; divide time into discrete intervals
+- appliance; every appliance in the home
+- visionary; visionary concepts that nobody asked for
+
 #### p46
+- foolproof; be foolproof in operation
+- knob; one knob with four settings
+- burglar; having a burglar disarm your security system
+- plunder; plunder your house
+- retrofit; or worse, retrofit
+
 #### p47
+- antenna; earlier community antenna systems
+- spectrum; unused parts of the spectrum
+- morph; began to morph
+- approximation; To a first approximation
+- continent; often a country or continent
+
 #### p48
+- rhyme; others have it rhyme with "doubter"
+- conjunction; more recent meaning in conjunction with
 
+#### p49
+- astute; The astute reader
+- dedicated; lease dedicated transmission lines
 
+#### p50
+- capacity; the capacity is clear
+- ISP; Internet Service Provider
+
+#### p51
+- analog; The first generation was analog
+
+#### p52
+- fulfillment; The fulfillment of this desire
+- incompatible; frequently incompatible
+- generic; be used in a gen-eric sense
+- contrast; in contrast to the worldwide Internet
+- constitutes; what constitutes an internetwork
+- terminology; over terminology in this area
+- hierarchies; protocol hierarchy
+
+### 1.3 NETWORK SOFTWARE
+#### p53
+- shielding; shielding those layers from the details
+- encapsulation; data encapsulation
+- conventions; conventions used in this conversation
+- violating; Violating the protocol
+
+#### p54
+- adjacent; pair of adjacent layers
+
+#### p55
+- philosophers; Imagine two philosophers
+- imposed; a limit imposed by
+
+#### p56
+- conceptually; conceptually think of
+ 
+#### p57
+- inverted; will be received damaged (inverted)
+- fluke; due to fluke electrical
+- flaws; hardware flaws
+- mechanism; One mechanism for finding errors
+- error detection;
+
+#### p58
+- error correction;
+- redundant; adding redundant infor-mation
+- routing;
+- evolution; concerns the evolution of the network
+- emerge; new designs emerge that
+- protocol layering;
+- addressing;
+- naming;
+- preserve; preserve the order of messages
+- internetworking;
+- scalable;
+- interfere; interfere with another too much
+- fraction; a fixed fraction of the band-width
+- statistical multiplexing;
+
+#### p59
+- flow control;
+- congestion;
+- reconcile; reconcile these competing demands
+- real-time;
+- Quality of service;
+- eavesdropping; eavesdropping on communications
+- confidentiality;
+- authentication;
+- impersonating; impersonating someone else
+- integrity;
+- surreptitious; prevent surreptitious changes to messages
+- cryptography; based on cryptography
+- Connection-oriented;
+- dial; dial the number
+- negotiation;
+- circuit;
+- connectionless
+
+#### p60
+- packet;
+- store-and-forward switching;
+- onward; the onward transmission of a message
+- cut-through switching;
+- scrambles; occasionally scrambles or loses a few bits
+- voice over IP;
+- disruptive; less disruptive for telephone users
+- jerk; the image jerk along
+= irritating; starts to correct errors is irritat-ing
+
+#### p61
+- datagram;
+- dominant; the dominant form in most networks
+- acknowledged datagram;
+- request-reply;
+
+#### p62
+- primitives;
+- illustrate; To illustrate how
+- sketch; We sketch a simple protocol
+
+#### p64
+- inadequate; is often inadequate
+- emphasize; we emphasize it again here
+- crucial; To repeat this crucial point
+
+### Ch 1.4 REFERENCE MODELS
+#### p65
+- OSI; Open Systems Interconnection
+
+#### p67
+- physical layer
+- simultaneously; proceed simultaneously in both directions
+- torn; how it is torn down
+- data link layer;
+- data frames;
+- acknowledgement frame;
+- medium access control;
+- network layer;
+
+#### p68
+- jitter; delay, transit time, jitter
+- heterogeneous; allow heterogeneous net-works
+- transport layer
+- ultimately; and, ultimately
+- session layer;
+- sessions;
+- dialog control;
+- token management;
+- synchronization;
+
+#### p69
+- presentation layer;
+- semantics; semantics of the infor-mation transmitted
+- application layer;
+- HTTP (HyperText Transfer Protocol);
+- sponsored; sponsored by the DoD
+- seamless; a seamless way
+- TCP/IP;
+
+#### p70
+- intact; connections to remain intact
+- link layer;
+- internet layer;
+- linchpin; is the linchpin
+
+#### p71
+- companion; a companion protocol
+- ICMP(Internet Control Message Protocol);
+- transport layer;
+- TCP(Transmission Control Protocol);
+- swamp; cannot swamp a slow receiver
+- UDP(User Datagram Protocol);
+- application layer;
+
+#### p72
+
+#### p73
+- portion; with the portion of the program
+- explicit; distinction between these three concepts explicit
+- semantics; It defines the layer's semantics
+
+#### p74
+
+#### p75
+- criticism; Quite a bit of criticism can be
+- apocalypse; apocalypse of the two elephants
+
+#### p76
+- cautiously; had begun cautiously offering
+
+#### p77
+
+### 1.5 EXAMPLE NETWORKS
+#### p78
+- sloppy; should not be sloppy about it
+
+#### p79
+- ARPANET;
+- vulnerable; which was considered vulnerable
+- gleaned; the reason fir this belief can be gleaned from
+
+#### p80
+- skepticism; After some initial skepticism
+- vague; presented a some-what vague
+
+#### p81
+
+#### p82
+
+#### p83
+- sockets;
+- DNS(Domain Name System);
+- NSFNET;
+- fuzzball;
+
+#### p84
+- NAP(Network Access Point);
+
+#### p85
+- regularity; change with some regularity
+- explosively; it has grown explosively
+- upheavals; is complicated by continuous upheavals
+- convergence; is telecom-munications convergence
+
+#### p86
+- ISP Internet Service Provider;
+- DSL Digital Subscriber Line;
+- unhindered; pass unhindered over the telephone line
+
+#### p87
+- backbone;
+- POP Point of Presence;
+- vertically; are drawn vertically in Fig. 1-29
+- overlap; ISP networks overlap geographically
+- transit;
+
+#### p88
+- paradoxes; One if the many paradoxes
+- data centers;
+- server farm;
+- Colocation / hosting
+
+#### p89
+- jargon; come with a lot of jargon
+- stationary; 
 
 
 
