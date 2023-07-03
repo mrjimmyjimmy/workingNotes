@@ -433,7 +433,22 @@
 
 #### p89
 - jargon; come with a lot of jargon
-- stationary; 
+- stationary; 2Mbps for stationary
+- antennas; will use multiple antennas
+- spectrum; is radio spectrum
+- cellular network;
+- frequency reuse;
+
+#### p90
+- air interface;
+- cellular base station;
+- CDMA Code Division Multiple Access;
+
+#### p91
+- adequate; providing adequate audio quality;
+
+#### p107 
+
 
 
 
