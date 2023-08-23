@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/防火墙.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/防火墙.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机网络/Ch1_words.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/Ch1_words.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/网络.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\workingNotes\Linux\指令" />
       <recent name="D:\git\workingNotes" />
       <recent name="D:\git\workingNotes\Database" />
       <recent name="D:\git\workingNotes\spring" />
@@ -157,7 +157,11 @@
       <workItem from="1687659227190" duration="13696000" />
       <workItem from="1687917424305" duration="2712000" />
       <workItem from="1688017128775" duration="263000" />
-      <workItem from="1688111884386" duration="2279000" />
+      <workItem from="1688111884386" duration="3510000" />
+      <workItem from="1689294188280" duration="7617000" />
+      <workItem from="1690782803397" duration="1210000" />
+      <workItem from="1691486295657" duration="1436000" />
+      <workItem from="1691628591225" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>
@@ -207,19 +211,16 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1684289622847" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1687917430486" />
-    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1687932250385">
+    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1691486507539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-724" y="5" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1683767772074" />
     <state x="-2644" y="23" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@-3840.18.1920.1040" timestamp="1686885262879" />
-    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1687932250385" />
-    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1684202597856">
+    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1691486507539" />
+    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1689650491092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" width="786" height="900" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1684202597856" />
-    <state x="-817" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1682662851438">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-817" y="230" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1682662851438" />
+    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1689650491092" />
   </component>
 </project>
