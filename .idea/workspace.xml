@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/网络.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/yum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/yum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/Ch2_words.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/Ch2_words.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryReader" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -162,6 +164,12 @@
       <workItem from="1690782803397" duration="1210000" />
       <workItem from="1691486295657" duration="1436000" />
       <workItem from="1691628591225" duration="595000" />
+      <workItem from="1692778863224" duration="737000" />
+      <workItem from="1692837760065" duration="605000" />
+      <workItem from="1693384218798" duration="1961000" />
+      <workItem from="1693979913323" duration="1444000" />
+      <workItem from="1694066765050" duration="1197000" />
+      <workItem from="1694614743348" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>
@@ -202,25 +210,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="finish 1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3397" y="132" key="CommitChangelistDialog2" timestamp="1685003253586">
-      <screen x="-3840" y="18" width="1920" height="1040" />
-    </state>
-    <state x="-3397" y="132" key="CommitChangelistDialog2/0.0.1920.1040/-3840.18.1920.1040@-3840.18.1920.1040" timestamp="1685003253586" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1687917430486">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1693984091854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1684289622847" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1687917430486" />
-    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1691486507539">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1693984091854" />
+    <state x="956" y="4" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1694614769964">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-724" y="5" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1683767772074" />
+    <state x="956" y="4" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1694614769964" />
     <state x="-2644" y="23" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@-3840.18.1920.1040" timestamp="1686885262879" />
-    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1691486507539" />
-    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1689650491092">
+    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1693984310089" />
+    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1694767985872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" width="786" height="900" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1684202597856" />
-    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1689650491092" />
+    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1694767985872" />
   </component>
 </project>

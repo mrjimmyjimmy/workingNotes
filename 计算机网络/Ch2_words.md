@@ -2,3 +2,5 @@
 
 #### p113
 - modulation; Next comes digital modulation
+- throughput; 吞吐量
+- 
