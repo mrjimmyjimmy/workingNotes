@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/yum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/yum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/SpringUsage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/网络.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/计算机网络/Ch2_words.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/Ch2_words.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +168,9 @@
       <workItem from="1693384218798" duration="1961000" />
       <workItem from="1693979913323" duration="1444000" />
       <workItem from="1694066765050" duration="1197000" />
-      <workItem from="1694614743348" duration="1246000" />
+      <workItem from="1694614743348" duration="2173000" />
+      <workItem from="1695263208299" duration="599000" />
+      <workItem from="1695343238162" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>
@@ -214,15 +215,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1693984091854" />
-    <state x="956" y="4" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1694614769964">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1695343298595">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="956" y="4" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1694614769964" />
     <state x="-2644" y="23" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@-3840.18.1920.1040" timestamp="1686885262879" />
-    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1693984310089" />
-    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1694767985872">
+    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1695343298595" />
+    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1695343576712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1694767985872" />
+    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1695343576712" />
   </component>
 </project>
