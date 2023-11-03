@@ -32,5 +32,8 @@ ll command not found 需要加入alias ll == ls -al
 
 alias ll="ls -al"
 
+### 5. 压缩和解压缩 tar
+
+
 
 

@@ -9,4 +9,13 @@ EwFKm6aLn!GevWN1
 - 导入
     - mysql -h[ip] -P[端口] -u[用户名] -p[密码]  [数据库名] < d:XX.sql(路径) 
 mysql -h 10.1.6.202 -P 3306 -u root -phiggs123 --database StarHarbour < shb.sql
+
+### Centos安装mysql
+
+
+### MySQL更改密码
+#### 8.0 版本
+- 登录 mysql
+- mysql> `ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';`
+- 更改密码强度 mysql> `SET GLOBAL validate_password.policy=LOW;` 
     
