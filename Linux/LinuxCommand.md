@@ -34,6 +34,10 @@ alias ll="ls -al"
 
 ### 5. 压缩和解压缩 tar
 
+#### gz
+- 解压 `tar zxvf FileName.tar.gz`
+- 压缩 `tar zcvf FileName.tar.gz DirName`
+
 
 
 

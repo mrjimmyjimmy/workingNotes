@@ -16,6 +16,7 @@ mysql -h 10.1.6.202 -P 3306 -u root -phiggs123 --database StarHarbour < shb.sql
 ### MySQL更改密码
 #### 8.0 版本
 - 登录 mysql
-- mysql> `ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';`
 - 更改密码强度 mysql> `SET GLOBAL validate_password.policy=LOW;` 
+- mysql> `ALTER USER 'root'@'localhost' IDENTIFIED BY 'higgs123';`
+
     
