@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/yum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/yum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/网络.md" afterDir="false" />
-    </list>
+    <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +184,7 @@
       <workItem from="1703661288371" duration="3086000" />
       <workItem from="1704426335102" duration="3201000" />
       <workItem from="1704760688614" duration="604000" />
-      <workItem from="1704776873024" duration="456000" />
+      <workItem from="1704776873024" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>
