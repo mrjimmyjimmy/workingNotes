@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2208ed7c-b789-48cc-95fc-f7100442144f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Database/MySQL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/LinuxCommand.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/LinuxCommand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/yum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/yum.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linux/网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/网络.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryReader" />
+    <property name="last_opened_file_path" value="D:/github/TradingCluster" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -182,7 +181,14 @@
       <workItem from="1699867178806" duration="6014000" />
       <workItem from="1700097181757" duration="5035000" />
       <workItem from="1700440695357" duration="11249000" />
-      <workItem from="1701688567019" duration="5005000" />
+      <workItem from="1701688567019" duration="6695000" />
+      <workItem from="1702513741403" duration="641000" />
+      <workItem from="1702539430100" duration="3034000" />
+      <workItem from="1703055715959" duration="1504000" />
+      <workItem from="1703661288371" duration="3086000" />
+      <workItem from="1704426335102" duration="3201000" />
+      <workItem from="1704760688614" duration="604000" />
+      <workItem from="1704776873024" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>
@@ -223,18 +229,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="finish 1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1693984091854">
+    <state x="741" y="276" key="FileChooserDialogImpl" timestamp="1704262074254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1693984091854" />
-    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1700440732286">
+    <state x="741" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1704262074254" />
+    <state x="1196" y="5" width="724" height="407" key="com.intellij.ide.util.TipDialog" timestamp="1704777062312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="956" y="4" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1694614769964" />
-    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1700440732286" />
-    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1702275773028">
+    <state x="1196" y="5" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1704777062312" />
+    <state x="0" y="0" width="786" height="900" key="find.popup" timestamp="1704432491325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1702275773028" />
+    <state x="0" y="0" width="786" height="900" key="find.popup/0.0.1920.1040/-3840.18.1920.1040@0.0.1920.1040" timestamp="1704432491325" />
   </component>
 </project>

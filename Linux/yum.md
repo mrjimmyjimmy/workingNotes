@@ -8,3 +8,7 @@
 
 #### 卸载
 `yum remove`
+
+### yum 冲突
+- 找出冲突应用 `ps aux | grep yum`
+- 终止 `kill -9 [pid]`
