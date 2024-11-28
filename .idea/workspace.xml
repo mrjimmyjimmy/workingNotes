@@ -38,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/git/workingNotes",
+    "last_opened_file_path": "D:/NextCloud/运维/服务器上架/其他脚本",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -266,7 +266,9 @@
       <workItem from="1727228039018" duration="6138000" />
       <workItem from="1728525574722" duration="1672000" />
       <workItem from="1728885594380" duration="4443000" />
-      <workItem from="1729055115560" duration="220000" />
+      <workItem from="1729055115560" duration="15260000" />
+      <workItem from="1730957853135" duration="744000" />
+      <workItem from="1731652995736" duration="8505000" />
     </task>
     <task id="LOCAL-00001" summary="update linux command">
       <created>1685003208943</created>

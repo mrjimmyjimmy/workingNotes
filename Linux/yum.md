@@ -12,3 +12,9 @@
 ### yum 冲突
 - 找出冲突应用 `ps aux | grep yum`
 - 终止 `kill -9 [pid]`
+
+### 无网络离线安装
+#### 通过repotrack下载rpm包
+- 安装yumutils. yum -y install yum-utils
+- 下载离线包. repotrack htop
+- rpm安装离线包. rpm -Uvh --force --nodeps *.rpm

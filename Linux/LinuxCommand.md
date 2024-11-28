@@ -50,6 +50,9 @@ z 字母表示使用gzip进行压缩和解压。
 - 编辑 `crontab -e`
 - 查看 `crontab -l`
 
+### 换为 Unix/Linux 文本文件格式
+- dos2unix file.txt
+
 
 
 
