@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Remote Python 3.7.10 (sftp://ec2-user@ec2-52-194-244-222.ap-northeast-1.compute.amazonaws.com:22/usr/bin/python3)" jdkType="Python SDK" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
