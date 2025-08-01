@@ -11,6 +11,8 @@
 
 ### [数据库](Database)
 
+### [CS培养计划](cs-learning/zju.md)
+
 ### Web开发相关
 - [Redis](redis)
 - [Docker](docker)
