@@ -1,0 +1,2 @@
+# journalctl
+journalctl 来查看由systemd写入的日志
