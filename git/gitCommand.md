@@ -24,3 +24,10 @@ $ cat ~./ssh/id_rsa.pub
 1. 设置head
 git reset --hard b35e734
 ```
+
+### gitignore不生效
+清除本地缓存在提交
+git rm -r --cached .
+git add .
+git commit -m "update .gitignore"
+git push -u origin main/master
