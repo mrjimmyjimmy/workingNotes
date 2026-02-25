@@ -1,14 +1,14 @@
-# ptp
-Precision Time Protocol精确时间协议是一种时间同步协议，用于设备之间的高精度时间同步。
+# PTP
+Precision Time Protocol 精确时间协议是一种时间同步协议，用于设备之间的高精度时间同步。
 
-## 对比ntp、ptp
-|  | ntp | ptp |
+## 对比NTP、PTP
+|  | NTP | PTP |
 | --- | --- | --- |
 | 精度 | 10 - 100ms | < 1us | 
 | 实现方式 | 软件 | 需要网卡支持 |
-| 源 | ntp源 | 一般为GPS GM |
+| 源 | NTP源 | 一般为GPS GM |
 
-## ptp基本概念
+## PTP基本概念
 #### PTP域
 应用了PTP协议的网络称为PTP域。PTP域里只有一个同步始终，其余所有设备与该时钟同步
 #### 时钟节点
@@ -26,39 +26,44 @@ PTP域中的设备称为时钟节点，有以下3种分类：
 | 误差 | 终端，不产生误差 | 每级引入少量误差10-50ns | 每级引入极少量误差1-5ns | 
 | 典型设备 | 服务器、GM | 交换机 | 交换机 |
 
+#### 最优时钟 GM
+整个PTP域的参考时间就是最优时钟 Grandmaster Clock GM, 也是最高层次时钟。最优时钟可以通过手动静态配置，也可以通过Best Master Clock 最佳主时钟协议动态选举
+
 #### PTP端口 
 设备上运行了PTP协议的端口称为PTP端口，有以下3种分类：
 1. Master Port 主端口 发布同步时间的端口，可能存在于BC或OC上
 2. Slave Port 从端口 接收时间同步的端口，可能存在于BC或OC上
 3. Passive Port 被动端口 不发送也不接收同步的端口，只存在于BC上
 
-## ptp主从对时原理
+![](docs/ptp_port.png)
+
+## PTP主从对时原理
 ```mermaid
 sequenceDiagram
-    participant M as 🕐 Master Clock
-    participant S as 🕑 Slave Clock
+    participant M as Master Clock
+    participant S as Slave Clock
 
-    Note over M,S: ① 同步阶段 Sync Phase
+    Note over M,S: 1. 同步阶段 Sync Phase
 
     Note over M: 记录发送时刻 t1
     M ->> S: Sync
     Note over S: 记录接收时刻 t2
     M -->> S: Follow_Up（携带精确 t1）
 
-    Note over M,S: ② 延迟测量阶段 Delay Request Phase
+    Note over M,S: 2. 延迟测量阶段 Delay Request Phase
 
     Note over S: 记录发送时刻 t3
     S ->> M: Delay_Req
     Note over M: 记录接收时刻 t4
     M -->> S: Delay_Resp（携带 t4）
 
-    Note over M,S: ③ Slave 本地计算
+    Note over M,S: 3. Slave 本地计算
 
     rect rgb(240, 248, 255)
-        Note over S: 链路传播延迟 Propagation Delay<br/>= ( (t2 - t1) + (t4 - t3) ) / 2<br/>⚠️ 假设上下行路径对称
+        Note over S: 链路传播延迟 Propagation Delay<br/>= ( (t2 - t1) + (t4 - t3) ) / 2<br/>
     end
 
     rect rgb(255, 248, 240)
-        Note over S: 时钟偏差 Offset<br/>= ( (t2 - t1) - (t4 - t3) ) / 2<br/>📌 Slave 据此调整本地时钟
+        Note over S: 时钟偏差 Offset<br/>= ( (t2 - t1) - (t4 - t3) ) / 2<br/> Slave 据此调整本地时钟
     end
 ```
