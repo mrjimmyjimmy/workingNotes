@@ -6,6 +6,14 @@
 $ git remote add origin git@github.com:mrjimmyjimmy/introduction-to-java-programming.git
 ```
 
+#### 本机添加201的仓库
+- 从201复制仓库到本地
+- git remote remove origin 删去远端
+- git remote add origin 201:/home/xuzhe/git/Falcon-fld 添加201为远端
+- git push -u origin main && git pull 同步
+- 201仓库 git config receive.denyCurrentBranch updateInstead
+
+
 ### github设置ssh key
 ```
 1. 首先设置git的username 和 email
