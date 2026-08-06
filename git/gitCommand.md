@@ -1,4 +1,5 @@
 # git
+ 
 ### git remote
 
 例子
@@ -39,3 +40,8 @@ git rm -r --cached .
 git add .
 git commit -m "update .gitignore"
 git push -u origin main/master
+
+### git 清理分支
+- 清理远程分支 git remote prune origin
+- 查看本地分支 git branch
+- 删除本地分支 git brahcn -d <branch-name>
